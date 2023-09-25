@@ -1,3 +1,3 @@
 This is file2.txt
 Changes made to file2.txt in our local repo.
-
+Another line edited in GitHub
